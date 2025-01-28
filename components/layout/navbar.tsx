@@ -29,19 +29,19 @@ interface FeatureProps {
 const routeList: RouteProps[] = [
     {
         href: '#testimonials',
-        label: 'Testimonials',
+        label: '사용자 후기',
     },
     {
         href: '#team',
-        label: 'Team',
+        label: '팀 소개',
     },
     {
         href: '#contact',
-        label: 'Contact',
+        label: '문의하기',
     },
     {
         href: '#faq',
-        label: 'FAQ',
+        label: '자주 묻는 질문',
     },
 ];
 
