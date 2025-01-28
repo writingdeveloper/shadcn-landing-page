@@ -11,17 +11,17 @@ interface FeaturesProps {
 const featureList: FeaturesProps[] = [
     {
         icon: 'TabletSmartphone',
-        title: '상품소싱싱',
+        title: '상품소싱',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, consectetur.',
     },
     {
         icon: 'BadgeCheck',
-        title: 'Ai 에디터터',
+        title: 'Ai 에디터',
         description: 'Lorem ipsum dolor sit amet consectetur. Natus consectetur, odio ea accusamus aperiam.',
     },
     {
         icon: 'Goal',
-        title: '마켓연동동',
+        title: '마켓연동',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. odio ea accusamus aperiam.',
     },
     {
